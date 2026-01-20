@@ -3,3 +3,5 @@ b=23
 c=a+b
 print(c)
 print(a)
+d=a*b
+print(d)
